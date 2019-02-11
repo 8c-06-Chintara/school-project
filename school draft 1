@@ -1,0 +1,30 @@
+<html> 
+     <head>
+          <title> My Profile </title>
+     </head>
+     <body bgcolor="f1e8da">
+          <p align="center"> <font size="7" face="Tahoma"> Hello, My Name Is </p> </font>
+          
+          <p align="center"> <font size="7" face="Arial" color="gold"> C </font>
+          <font size="7" face="Arial" color="gold"> H </font>
+          <font size="7" face="Arial" color="silver"> I </font>
+          <font size="7" face="Arial" color="gold"> N </font>
+          <font size="7" face="Arial" color="gold"> T </font>
+          <font size="7" face="Arial" color="silver"> A </font>
+          <font size="7" face="Arial" color="gold"> R </font>
+          <font size="7" face="Arial" color="silver"> A </font> </p>
+
+          <p align="center"> <font size="7" face="Arial" color="gold"> S </font>
+          <font size="7" face="Arial" color="silver"> A </font>
+          <font size="7" face="Arial" color="gold"> H </font>
+          <font size="7" face="Arial" color="silver"> E </font>
+          <font size="7" face="Arial" color="gold"> L </font>
+          <font size="7" face="Arial" color="silver"> A </font>
+          <font size="7" face="Arial" color="gold"> N </font>
+          <font size="7" face="Arial" color="gold"> G </font>
+          <font size="7" face="Arial" color="silver"> I </font> </p>
+          
+          <p align="center"> <font size="7" face="Tahoma"> My Zodiac Is </p> </font>
+          <p align="center"> <img src="1549883736240.png"> </p>
+     </body>
+</html>
